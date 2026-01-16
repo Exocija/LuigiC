@@ -20,7 +20,7 @@ https://github.com/user-attachments/assets/0a79bf2c-6d69-411f-a313-4cb6f14546d4
 ## Current Limitations
 - **Doors**: The AI currently can't use doors. Doors are teleports from Point A to B with no physical path between them, so the AI just sees them as walls.
 - **Beta Phase**: This is still in Beta. Luigi might occasionally jump into a pit or do something unintended. Nobody is perfect.
-- **Game Logic**: Some levels aren't 100% possible to finish yet due to bosses or complex level mechanics that don't fit into basic pathfinding.
+- **Game Logic**: Some levels aren't 100% possible to finish yet due to bosses or complex level mechanics that don't fit into advanced pathfinding without requiring to scale the project 5x.
 - **Auto-Scroll**: Auto-scroll levels are tough because the AI can't calculate a path for parts of the level that haven't loaded yet.
 
 ## Windows 11 Security Note
