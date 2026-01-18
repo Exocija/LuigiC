@@ -30,6 +30,7 @@ https://github.com/user-attachments/assets/0a79bf2c-6d69-411f-a313-4cb6f14546d4
 
 ## Compiling yourself
 Due to GitHub upload limits, the full source code is available as a **zip file**
+
 It includes Visual Studio solutions and a Makefile for MSYS2 (GCC)
 
 ## Current Limitations
