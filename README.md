@@ -15,7 +15,18 @@ The engine runs at a stable 60 FPS, and the depth of its "thinking" scales based
 
 https://github.com/user-attachments/assets/0a79bf2c-6d69-411f-a313-4cb6f14546d4
 
+## How to Play
+1. Download the latest release from the **Releases** section on the right.
+2. Extract the zip file to a folder.
+3. **Required:** Place your legally obtained `smw.sfc` (USA version) file into that same folder.
+4. Run `smw.exe`.
+5. Press **Tab** to activate the AI!
 
+ ## Controls
+ | Key | Action |
+ | --- | --- |
+ | **Tab** | **Toggle AI** |
+ | **Q** | **Open in Map** (Custom Save/Load) |
 
 ## Current Limitations
 - **Doors**: The AI currently can't use doors. Doors are teleports from Point A to B with no physical path between them, so the AI just sees them as "nothing".
