@@ -28,6 +28,10 @@ https://github.com/user-attachments/assets/0a79bf2c-6d69-411f-a313-4cb6f14546d4
  | **Tab** | **Toggle AI** |
  | **Q** | **Open in Map** (Custom Save/Load) |
 
+## Compiling yourself
+Due to GitHub upload limits, the full source code is available as a **zip file**
+It includes Visual Studio solutions and a Makefile for MSYS2 (GCC)
+
 ## Current Limitations
 - **Doors**: The AI currently can't use doors. Doors are teleports from Point A to B with no physical path between them, so the AI just sees them as "nothing".
 - **Beta Phase**: This is still in Beta. Luigi might occasionally jump into a pit or do something unintended. Nobody is perfect.
